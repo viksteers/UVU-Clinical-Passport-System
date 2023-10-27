@@ -1,0 +1,11 @@
+img {
+    width: 25%;
+    float: left;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-item5, .grid-item8 {
+    text-align: center;
+}
