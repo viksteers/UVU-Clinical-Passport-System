@@ -32,3 +32,14 @@ Please note that this is only functional with XAMPP.
 <li>Review and obtain approval from all parties involved to ensure accuracy and completeness.</li>
 <li>Use clear and concise language, avoiding technical jargon and ambiguous terms.</li>
 <li>Incorporate feedback, revise as needed, and ensure easy access through navigation aids like hyperlinks or cross-references.</li>
+
+<p>Results:</p>
+
+<p><img src="/Clinical Passport Results/CP_Login.png"></p>
+<p><img src="/Clinical Passport Results/CP_Menu.png"></p>
+<p><img src="/Clinical Passport Results/CP_StudentInformation.png"></p>
+<p><img src="/Clinical Passport Results/CP_Message.png"></p>
+<p><img src="/Clinical Passport Results/CP_Ranking.png"></p>
+<p><img src="/Clinical Passport Results/CP_RankingResults.png"></p>
+<p><img src="/Clinical Passport Results/CP_Tracking.png"></p>
+<p><img src="/Clinical Passport Results/CP_TrackingResults.png"></p>
